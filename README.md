@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mansi
-- :books: Mathematics undergaduate student with a minor in Computer Science.
+- :books: MSE Data Sciene student at Johns Hopkins University
+- :books: Mathematics undergaduate student with a minor in Computer Science from Shiv Nadar University
 - 👀 I’m interested in the intersection of Mathematics and Data Science.
-- 🌱 I’m currently learning about Natural Language Processing .
-- 📫 How to reach me mg739@snu.edu.in
+- 📫 How to reach me mansigoel0029@gmail.com
 - :revolving_hearts: I love to interact with fellow students, learn something from them or share my knowledge.
 - ⚡ Fun Fact : I enjoy travel, sports, movies and food. 
 
